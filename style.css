@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(215, 242, 255);
+}
+
+header {
+    
+    position: relative;
+    margin: 200px auto;
+
+}
+
+.qrCode {
+    width: 100%;
+    border-radius: 15px;
+}
+
+section {
+background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius:  20px;
+    padding: 15px;
+    width: 380px;
+    height: 600px;
+    margin:auto;
+    position: relative;
+    box-shadow:  6px 6px 22px #6f9aff,
+                -6px -6px 22px #6f9aff;
+}
+
+.principal {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font: bold;
+    text-align: center;
+    margin:30px;
+    position: relative;
+
+}
+.scan {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font:normal;
+    text-align: center;
+    margin:30px;
+    position: relative;
+
+}
+footer {
+    color: azure;
+    text-align: center;
+    font-style: italic;
+    margin: auto;
+}

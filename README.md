@@ -19,3 +19,10 @@
    Solução para o Desafio do <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">frontendmentor.io</a>.
 </div>
 
+****
+## Linguagens utilizadas:
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60"/>
+</div>

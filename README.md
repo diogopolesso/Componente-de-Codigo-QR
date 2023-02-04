@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="[https://master.dsdim9z4imwim.amplifyapp.com/](https://diogopolesso.github.io/Componente-de-Codigo-QR/)" color="white">
+    <a href="https://diogopolesso.github.io/Componente-de-Codigo-QR/" color="white">
       Resultado Ao Vivo
     </a>
     <span> | </span>

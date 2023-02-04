@@ -6,8 +6,8 @@
 
 <div align="center">
   <h3>
-    <a href="https:" color="white">
-      Resultado
+    <a href="https://master.dsdim9z4imwim.amplifyapp.com/" color="white">
+      Resultado Ao Vivo
     </a>
     <span> | </span>
     <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
